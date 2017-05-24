@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Brandon Rasmussen
 
-I like to:
+I like to: play video games, read books and magazine, and play/watch sports
 
-I'm learning:
+I'm learning: to become a full stack developer
 
 ```
 
